@@ -27,3 +27,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
 ## 4. Vista previa 👀
+[Clon de Google](imagenes/readme/clongoogle.png) 
